@@ -1,14 +1,30 @@
 [
     {
         "nome": "Thiago",
-        "nota": "8"
+        "nota": "9"
     },
     {
-        "nome": "Vinicios",
-        "nota": "8"
+        "nome": "Vinicius",
+        "nota": "9"
     },    
     {
-        "nome": "Rodorfo",
-        "nota": "8"
-    }    
+        "nome": "Rodolfo",
+        "nota": "9"
+    },
+    {
+        "nome": "Pedro",
+        "nota": "5"
+    },
+    {
+        "nome": "Gustavo",
+        "nota": "6"
+    },
+    {
+        "nome": "Lucas",
+        "nota": "10"
+    },
+    {
+        "nome": "Mario",
+        "nota": "4"
+    }                            
 ]
